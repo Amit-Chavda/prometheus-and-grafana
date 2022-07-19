@@ -22,3 +22,4 @@ docker run -v C:\path\prometheus.yml:/etc/prometheus/prometheus.yml -p  9090:909
 
 ### Grafana Dashboard for Spirng Boot Application
 ![image](https://user-images.githubusercontent.com/47694676/179804077-6373505b-4117-463c-ae55-80d559d60340.png)
+>Import [this code](https://github.com/Amit-Chavda/prometheus-and-grafana/blob/b476fc8ed6eb1630db5f2953ac51af51a848b9bb/Spring%20Boot%20Statistics.json) in grafana for similar dashboard.
