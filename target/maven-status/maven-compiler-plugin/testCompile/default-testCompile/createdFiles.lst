@@ -1,0 +1,4 @@
+com\restapi\repository\UserRepositoryTest.class
+com\restapi\UserRestAPITests.class
+com\restapi\service\UserServiceTest.class
+com\restapi\controller\UserControllerTest.class

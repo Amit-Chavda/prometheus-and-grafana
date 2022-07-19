@@ -1,0 +1,9 @@
+
+g
+java:S4488'"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¤¤“«8‘¨‡„Ÿ0
+V
+java:S1128"4Remove this unused import 'com.restapi.entity.User'.(–¹«Ùûÿÿÿÿ8”¨‡„Ÿ0
+b
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8•¨‡„Ÿ0
+f
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8•¨‡„Ÿ0
