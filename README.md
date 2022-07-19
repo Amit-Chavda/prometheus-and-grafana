@@ -16,5 +16,9 @@ docker run -v C:\path\prometheus.yml:/etc/prometheus/prometheus.yml -p  9090:909
 >**Note:** IP address in prometheus.yml file should be local ip instead of 'localhost' because we are using docker
 
 - Open the localhost:9090 and you will see dashboard similar like this
+
 ### Prometheus query engine
 ![image](https://user-images.githubusercontent.com/47694676/179746219-97df457c-f8f9-4abe-8291-27f0f1da4fcf.png)
+
+### Grafana Dashboard for Spirng Boot Application
+![image](https://user-images.githubusercontent.com/47694676/179804077-6373505b-4117-463c-ae55-80d559d60340.png)
