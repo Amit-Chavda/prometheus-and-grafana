@@ -2,7 +2,7 @@
 Sample application on how to monitor spring boot application using actuator, prometheus and grafana dashboard.
 
 ## How promethus works?
-![Prometheus Wroking](https://user-images.githubusercontent.com/47694676/179972845-e2d111e5-c96b-4c85-9366-7e1bcaaee7ce.png)
+![Prometheus Working](https://user-images.githubusercontent.com/47694676/179984601-f868dceb-afbc-49a3-bed6-f611005e46f9.png)
 
 
 ## setup prometheus in docker
